@@ -1,0 +1,4 @@
+id:firstName:lastName:street:city:state:zip:country
+001:Dixit:Modi:255 Coggins Drive:Pleasant Hill:California:94523:USA
+002:Arti:Modi:255 Coggins Drive:Pleasant Hill:California:94523:USA
+003:Aaradhy:Modi:255 Coggins Drive:Pleasant Hill:California:94523:USA
